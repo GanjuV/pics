@@ -1,3 +1,6 @@
+To publish the work on github pages follow below link
+https://medium.com/swlh/deploy-github-pages-in-minutes-32d1b22b5c93 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
